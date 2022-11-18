@@ -1,4 +1,4 @@
 este arquivo é da contribuição .
 # linha adicionada
 # outra linha
-# apenas add
+# direto, add e commit.
