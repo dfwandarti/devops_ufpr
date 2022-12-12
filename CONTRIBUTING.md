@@ -6,3 +6,4 @@ este é da branch nova
 e agora com rebase
 
 newbranch
+após squash
