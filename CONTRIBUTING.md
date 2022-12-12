@@ -7,3 +7,5 @@ e agora com rebase
 
 newbranch
 após squash
+
+outro squash
